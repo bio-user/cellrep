@@ -11,7 +11,7 @@ The project aims to derive a computational representation of cellular lines by l
 - `data/`: Directory containing raw data files from Cellosaurus and PubMed.
 - `dataret.ipynb`: Code for extracting data from the databases.
 - `dataproc.ipynb`: Code for processing retrieved data and constructing the hierarchical representation of cell lines.
-- 
+
 ## Setup
 
 1. Clone the repository:
